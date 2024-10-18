@@ -1,11 +1,19 @@
-# 👋My Self Ranjith Kumar🙂
-- I Am **Bca(Bachelor of Computer Applications)** Degree Holder 🎓🎓
-- I Am A **Java Full Stack Developer** 😎😎
-- Ask Me About Tech 💭💭
-- How to Reach Me <br>
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkIn"/>&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ranjithkumar22445588@gmail.com"/>
-## Tech Skills 🧑‍💻🧑‍💻
-###### I Code in 
-<img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>&nbsp;&nbsp;&nbsp;<img width="48" height="48" src="https://img.icons8.com/color/48/my-sql.png" alt="my-sql"/>&nbsp;&nbsp;&nbsp;<img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>&nbsp;&nbsp;&nbsp;<img width="48" height="48" src="https://img.icons8.com/color/48/redis--v1.png" alt="redis"/>&nbsp;&nbsp;&nbsp;<img width="48" height="48" src="https://img.icons8.com/color/48/mongo-db.png" alt="mongo-db"/>&nbsp;&nbsp;&nbsp;<img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>&nbsp;&nbsp;&nbsp;<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>&nbsp;&nbsp;&nbsp;<img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>&nbsp;&nbsp;&nbsp;<img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>&nbsp;&nbsp;&nbsp;<img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/>
+# 💫 About Me:
+🔭 I’m currently working on React Js Projects<br>🤝 I’m a Java Full Stack developer<br>🌱 I’m currently learning<br>💬 Ask me about
 
-  
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ranjith_kumar__v) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ranjith-kumar-9838a5274) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ranjith-kumar-the-sasster) 
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ranjithv88&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ranjithv88&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjithv88&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Ranjithv88&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
