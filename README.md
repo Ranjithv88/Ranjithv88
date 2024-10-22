@@ -13,7 +13,7 @@
 ###### IDE and Tools I Use 
 &nbsp;&nbsp;&nbsp;<img width="50" height="50" src="https://img.icons8.com/color/50/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>&nbsp;&nbsp;&nbsp;<img width="50" height="50" src="https://img.icons8.com/color/50/intellij-idea.png" alt="intellij-idea"/>&nbsp;&nbsp;&nbsp;<img width="48" height="48" src="https://img.icons8.com/external-those-icons-flat-those-icons/48/external-MySQL-programming-and-development-those-icons-flat-those-icons.png" alt="MySQL WorkBench"/>&nbsp;&nbsp;&nbsp;<img width="64" height="64" src="https://img.icons8.com/sf-black-filled/64/github.png" alt="github"/>&nbsp;&nbsp;&nbsp;<img width="50" height="50" src="https://img.icons8.com/color/50/ubuntu--v1.png" alt="ubuntu--v1"/>&nbsp;&nbsp;&nbsp;<img width="48" height="48" src="https://img.icons8.com/external-those-icons-fill-those-icons/48/external-Codepen-social-media-those-icons-fill-those-icons.png" alt="external-Codepen-social-media-those-icons-fill-those-icons"/>&nbsp;&nbsp;&nbsp;
 ###### Portfolio
-## 🔗 [ Personal-Portfolio ](https://personal-portfolio-phi-liard-20.vercel.app/)
+ 🔗 [https://personal-portfolio-phi-liard-20.vercel.app](https://personal-portfolio-phi-liard-20.vercel.app)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ranjithv88&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ranjithv88&theme=dark&hide_border=false)<br/>
