@@ -4,8 +4,7 @@
 🔭 I’m currently working on React Js Projects<br>🤝 I’m a Java Full Stack developer<br>🌱 I’m currently learning<br>💬 Ask me about
 ###### Personal Portfolio
  🔗 [https://personal-portfolio-phi-liard-20.vercel.app](https://personal-portfolio-phi-liard-20.vercel.app)
- <a href="https://personal-portfolio-phi-liard-20.vercel.app" target='_black'>🔗 https://personal-portfolio-phi-liard-20.vercel.app</a>
-
+ 
 ## 🌐 Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranjith.dev.00@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ranjith_kumar__v) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ranjith-kumar-9838a5274) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ranjith-kumar-the-sasster) 
 
